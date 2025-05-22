@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "firstName": "Jessy",
+      "lastName": "Johnes",
+      "email": "jessy123@gmail.com",
+      "password": "123456",
+      "id": "4e13"
+    },
+    {
+      "id": "d5cc",
+      "firstName": "Viktor",
+      "lastName": "Borisov",
+      "email": "vixa2122@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7f08",
+      "firstName": "Viktor",
+      "lastName": "Borisov",
+      "email": "vixa2122@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e6ef",
+      "firstName": "Viktor",
+      "lastName": "Borisov",
+      "email": "vixa2122@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "2296",
+      "firstName": "viktor",
+      "lastName": "ivanov",
+      "email": "1234@abv.bg",
+      "password": "123456789"
+    },
+    {
+      "id": "f121",
+      "firstName": "viktor",
+      "lastName": "kaloqnov",
+      "email": "aaa@abv.bg",
+      "password": "12345"
+    },
+    {
+      "id": "d21d",
+      "firstName": "Viktor",
+      "lastName": "Borisov",
+      "email": "vixa2122@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
